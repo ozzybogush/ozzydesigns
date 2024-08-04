@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category" : "Toys",
+        "name": "Wooden Cubes - 8 count",
+        "description": "Description for Product 1",
+        "image": "../assets/ProductImages/wooden_cube.jpeg", 
+        "price": 19.99,
+        "onSale": true
+      },
+    {
+      "id": 2,
+      "category" : "Technology",
+      "name": "Digital rubiks cube",
+      "description": "Help you learn how to solve rubiks cube",
+      "image": "../assets/ProductImages/wooden_cube.jpeg",
+      "price": 29.99,
+      "onSale": false
+    }
+    
+  ]
+  
